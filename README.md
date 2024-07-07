@@ -27,6 +27,8 @@ In recent times, the number of fraud transactions has increased drastically, due
 
 • isFlaggedFraud - The business model aims to control massive transfers from one account to another and flags illegal attempts. An illegal attempt in this dataset is an attempt to transfer more than 200.000 in a single transaction.
 
+• You can download the dataset from [Kaggle](https://www.kaggle.com/code/rahulsiripuram/predicting-fraudulent-transactions)
+
 # Steps involved:
 • Exploratory data analysis (EDA) - the process of going through a dataset and finding out more about it.
 
